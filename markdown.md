@@ -12,7 +12,7 @@ title: Markdown Overview
 ### Markdown Syntax
 
 | Element | Syntax |
-|-----------|:----------:|
+|---------------|:---------------:|
 | Heading Level 1 |#|
 | Heading Level 2 to 6 |## to ######|
 | Paragraph |<p>|
@@ -29,12 +29,3 @@ title: Markdown Overview
 - For Line break, use trailing white space or the <br> HTML tag at the end of the line.
 - Put blank lines before and after horizontal rules.
 
-Show the time: {{ site.when }}
-
-Data file contents:
-
-{% for item in site.data.demo %}
-
-{{ site.data.demo }}
-
-{% endfor %}
