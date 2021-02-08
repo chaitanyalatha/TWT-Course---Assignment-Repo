@@ -13,14 +13,14 @@ title: Markdown Overview
 
 | Element | Syntax |
 |-------|:-------:|
-| Heading Level 1 |: # :|
-| Heading Level 2 to 6 |: ## to ###### :|
-| Paragraph |: <p> :|
-| Bold |: ** :|
-| Italic |: * :|
-| Unordered List |: - :|
-| Ordered List |: any number :|
-| Link |: [link text](link URL) :|
+| Heading Level 1 |:#:|
+| Heading Level 2 to 6 |:## to ######:|
+| Paragraph |:<p>:|
+| Bold |:**:|
+| Italic |:*:|
+| Unordered List |:-:|
+| Ordered List |:any number:|
+| Link |:[link text](link URL):|
 
 #### Best Practices
 
