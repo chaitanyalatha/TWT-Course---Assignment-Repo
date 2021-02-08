@@ -16,10 +16,6 @@ title: GitHub Concepts
 - [x] Define Variables
 - [x] Add Template to your Repository
 
-Data file contents:
-
 {% for item in site.name.demo since site.date.demo %}
-
-{{ site.data.demo }}
 
 {% endfor %}
