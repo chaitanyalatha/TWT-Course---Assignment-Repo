@@ -11,7 +11,9 @@ title: Markdown Overview
 
 ### Markdown Syntax
 
+
 | Markdown Element | Syntax |
+
 | ------ | ------ |
 | Heading level 1 | # |
 | Heading level 2 to Heading 6 | ## to ###### |
@@ -20,6 +22,7 @@ title: Markdown Overview
 | Italic | * |
 | Unordered list | - |
 | Ordered list | any number, followed by at least2 space |
+
 
 #### Best Practices
 
