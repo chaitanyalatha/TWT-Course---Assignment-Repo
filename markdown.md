@@ -13,7 +13,7 @@ title: Markdown Overview
 
 | Element | Syntax |
 |-------|:-------:|
-| Heading Level 1 | # |
+| Heading Level 1 |: # :|
 | Heading Level 2 to 6 | ## to ###### |
 | Paragraph | <p> |
 | Bold | ** |
