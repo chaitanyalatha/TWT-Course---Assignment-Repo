@@ -1,3 +1,9 @@
+body {
+	background-color: lightgrey;
+	font: arial;
+	font-size: 14px;
+}
+
 ---
 layout: demo
 title: GitHub Overview
