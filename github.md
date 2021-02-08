@@ -1,15 +1,15 @@
-body {
-	background-color: lightgrey;
-	font: arial;
-	font-size: 14px;
-}
-
 ---
 layout: demo
 title: GitHub Overview
 ---
 
 # {{page.title}}
+
+body {
+	background-color: lightgrey;
+	font: arial;
+	font-size: 14px;
+}
 
 <p> GitHub is a code hosting platform for version control and collaboration. It lets you and your team members or others work together on projects from anywhere.</p>
 
