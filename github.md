@@ -5,12 +5,6 @@ title: GitHub Overview
 
 # {{page.title}}
 
-body {
-	background-color: lightgrey;
-	font: arial;
-	font-size: 14px;
-}
-
 <p> GitHub is a code hosting platform for version control and collaboration. It lets you and your team members or others work together on projects from anywhere.</p>
 
 <p> GitHub is a web-based version-control and collaboration platform which is used to store the source code for a project and track the complete history of all changes to that code. </p>
