@@ -12,7 +12,7 @@ title: Markdown Overview
 ### Markdown Syntax
 
 | Element | Syntax |
-|:---|:---:|
+|---|:---:|
 | Heading Level 1 | # |
 | Heading Level 2 | ## |
 | Paragraph | <p> |
