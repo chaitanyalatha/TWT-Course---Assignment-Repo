@@ -11,18 +11,9 @@ title: Markdown Overview
 
 ### Markdown Syntax
 
-| Markdown Element | Syntax |
-| ------ | ------ |
-| Heading level 1 | # |
-| Heading level 2 to Heading 6 | ## to ###### |
-| Paragraph | <p> |
-| Bold | ** |
-| Italic | * |
-| Unordered list | - |
-| Ordered list | any number, followed by at least2 space |
 
 
-#### Best Practices
+** Best Practices **
 
 - Always put a space between the number signs (#) and the heading name.
 - Unless the paragraph is in a list, don’t indent paragraphs with spaces or tabs.
