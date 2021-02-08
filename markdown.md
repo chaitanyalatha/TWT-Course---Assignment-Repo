@@ -26,6 +26,6 @@ title: Markdown Overview
 
 - Always put a space between the number signs (#) and the heading name.
 - Unless the paragraph is in a list, don’t indent paragraphs with spaces or tabs.
-- For Line break, use trailing white space or the *<br>* HTML tag at the end of the line.
+- For Line break, use trailing white space at the end of the line.
 - Put blank lines before and after horizontal rules.
 
