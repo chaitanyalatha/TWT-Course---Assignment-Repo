@@ -1,6 +1,6 @@
 ---
 layout: demo
-title: GitHub Concepts
+title: GitHub Overview
 ---
 
 # {{page.title}}
@@ -14,10 +14,9 @@ title: GitHub Concepts
 1. Repositories
 2. Branches
 3. Commits
-<p> and </p>
 4. Pull Requests
 
-<p> The follwoing are the GitHub concepts: </p>
+<p> The following are the GitHub concepts: </p>
 
 - [x] Create a GitHub Repository
 - [x] Publish your Repository as a Website
